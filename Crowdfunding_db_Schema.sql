@@ -68,8 +68,6 @@ REFERENCES "Subcategory" ("subcategory_id");
 SELECT * FROM public."Campaign";
 	
 SELECT * FROM public."Category";
-
-SELECT * FROM public."Category";
 	
 SELECT * FROM public."Contacts";
 	
