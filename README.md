@@ -8,10 +8,13 @@ These are within the Resources Folder consisting of;
 - contacts.xlsx
 - crowdfunding.xlsx
 
-Database Type: Relational (SQL)
-Data Cleaning and Processing: Jupyter Notebook
-Packages Used: pandas, numpy, datetime
-Data Loading: pgAdmin
+**Database Type**: Relational (SQL)
+
+**Data Cleaning and Processing**: Jupyter Notebook
+
+**Packages Used**: pandas, numpy, datetime
+
+**Data Loading**: pgAdmin
 
 ## Entity Relationship Diagram (ERD)
 Below is a visual representation of the database structure.
