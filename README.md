@@ -8,18 +8,18 @@ These are within the Resources Folder consisting of;
 - contacts.xlsx
 - crowdfunding.xlsx
 
-Database Type: Relational (SQL)
-Data Cleaning and Processing: Jupyter Notebook
-Packages Used: pandas, numpy, datetime
-Data Loading: pgAdmin
+**Database Type**: Relational (SQL)
+
+**Data Cleaning and Processing**: Jupyter Notebook
+
+**Packages Used**: pandas, numpy, datetime
+
+**Data Loading**: pgAdmin
 
 ## Entity Relationship Diagram (ERD)
 Below is a visual representation of the database structure.
 
-
-
-## Findings 
-
+![Crowdfunding_ERD](https://github.com/Annbelbella/ETL_Mini_Project/assets/124645643/06cbd2ee-457d-464b-ab80-50505d0a2968)
 
 # Project Outline
 
